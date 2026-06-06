@@ -1,0 +1,6 @@
+db:
+  url: jdbc:postgresql://localhost:5433/examen_shalom?currentSchema=encomienda_schema
+  username: shalom
+  password: admin123
+  maximum-pool-size: 5
+  connection-timeout: 20000
